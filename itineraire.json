@@ -1,0 +1,116 @@
+{
+  "pays": "Slovénie",
+  "drapeau": "🇸🇮",
+  "symbole": "🏞️",
+  "titre": "Évasion Douce au Cœur Vert de l'Europe",
+  "budget_total": "680€",
+  "duree": "4 jours",
+  
+  "temps_vol": "1h45 depuis Paris, france",
+  "escale": "0",
+  "jours": [
+    {
+      "jour": 1,
+      "symbole": "🛬",
+      "titre": "Arrivée et Charme de Ljubljana",
+      "legende": "Débutez votre aventure slovène en douceur avec l'arrivée à Ljubljana. Installez-vous confortablement avant de vous immerger dans l'atmosphère romantique de la capitale, en flânant le long de la rivière Ljubljanica et en admirant son architecture unique. Une première journée dédiée à la découverte et à la détente.",
+      "lieu": "Ljubljana",
+      "activites": [
+        "<strong>🛬 Arrivée à l'aéroport de Ljubljana (LJU)</strong>: Récupérez votre voiture de location et rejoignez le centre-ville pour vous installer à votre hôtel.",
+        "<strong>🚶‍♂️ Balade le long de la Ljubljanica</strong>: Promenez-vous sur les rives de la rivière, traversez les célèbres ponts (Triple Pont, Pont des Dragons) et imprégnez-vous de l'ambiance décontractée de la ville.",
+        "<strong>🏰 Visite du Château de Ljubljana</strong>: Prenez le funiculaire pour monter au château et profitez d'une vue panoramique sur la ville au coucher du soleil. Un moment idéal pour admirer les toits et les montagnes environnantes."
+      ],
+      "illustration": "jour1.jpg",
+      "encarts": [
+        {
+          "symbole": "ℹ️",
+          "titre": "À savoir",
+          "texte": "Ljubljana est une capitale à taille humaine, très agréable à explorer à pied. Le centre-ville est majoritairement piéton."
+        }
+      ]
+    },
+    {
+      "jour": 2,
+      "symbole": "🏞️",
+      "titre": "Merveilles Alpines : Bled et Vintgar",
+      "legende": "Plongez dans la carte postale slovène avec la visite du lac de Bled, son île emblématique et son château perché. Laissez-vous ensuite charmer par la beauté naturelle des gorges de Vintgar, une balade apaisante au fil de l'eau turquoise. Une journée entre paysages grandioses et sérénité.",
+      "lieu": "Lac Bled & Gorges de Vintgar",
+      "activites": [
+        "<strong>🛶 Excursion en Pletna sur le Lac Bled</strong>: Montez à bord d'une barque traditionnelle pour rejoindre l'île et sa petite église, où vous pourrez faire sonner la \"cloche des vœux\".",
+        "<strong>🏰 Visite du Château de Bled</strong>: Explorez le plus ancien château de Slovénie, perché sur une falaise, offrant des vues imprenables sur le lac et les Alpes juliennes.",
+        "<strong>🚶‍♀️ Randonnée douce dans les Gorges de Vintgar</strong>: Parcourez les passerelles en bois le long de la rivière Radovna, admirant les cascades et les eaux cristallines. Une promenade rafraîchissante et accessible."
+      ],
+      "illustration": "jour2.jpg",
+      "encarts": [
+        {
+          "symbole": "💡",
+          "titre": "Conseil gourmand",
+          "texte": "Ne quittez pas Bled sans goûter la \"Kremšnita\", le célèbre gâteau à la crème de Bled, un délice local."
+        }
+      ]
+    },
+    {
+      "jour": 3,
+      "symbole": "🧘‍♀️",
+      "titre": "Sérénité au Lac Bohinj et Détente Thermale",
+      "legende": "Échappez à la foule au lac de Bohinj, plus sauvage et paisible que Bled, idéal pour une immersion nature. L'après-midi sera dédiée à la relaxation, avec une expérience thermale pour recharger les batteries. Une journée placée sous le signe du bien-être et de la tranquillité.",
+      "lieu": "Lac Bohinj & Environs",
+      "activites": [
+        "<strong>🚶‍♂️ Promenade autour du Lac Bohinj</strong>: Profitez de la quiétude de ce lac glaciaire, entouré de montagnes. Des sentiers faciles permettent de se balader le long de ses rives ou de rejoindre la cascade de Savica (optionnel, petite randonnée).",
+        "<strong>🚠 Téléphérique de Vogel (optionnel)</strong>: Montez au sommet de Vogel pour des vues spectaculaires sur le lac Bohinj et le parc national du Triglav. Une expérience panoramique sans effort.",
+        "<strong>♨️ Détente aux Thermes de Snovik</strong>: Offrez-vous un moment de pure relaxation dans un centre thermal réputé pour ses eaux curatives et ses installations modernes, parfait pour apaiser le corps et l'esprit."
+      ],
+      "illustration": "jour3.jpg",
+      "encarts": [
+        {
+          "symbole": "🌿",
+          "titre": "Nature préservée",
+          "texte": "Le lac Bohinj est moins touristique que Bled, offrant une expérience plus authentique et une nature plus brute. Idéal pour les amateurs de calme."
+        }
+      ]
+    },
+    {
+      "jour": 4,
+      "symbole": "✈️",
+      "titre": "Derniers Instants Slovènes et Départ",
+      "legende": "Profitez d'une dernière matinée à Ljubljana pour quelques emplettes ou une visite culturelle. Savourez un dernier café slovène avant de prendre la route vers l'aéroport, des souvenirs plein la tête. Une conclusion douce à un voyage relaxant.",
+      "lieu": "Ljubljana & Départ",
+      "activites": [
+        "<strong>🛍️ Flânerie au Marché Central de Ljubljana</strong>: Découvrez les produits locaux, l'artisanat et l'ambiance animée de ce marché en plein air et couvert, idéal pour quelques souvenirs.",
+        "<strong>🖼️ Visite d'un musée (optionnel)</strong>: Selon vos intérêts, explorez le Musée National de Slovénie ou la Galerie Nationale pour une touche culturelle avant de partir.",
+        "<strong>✈️ Départ de l'aéroport de Ljubljana (LJU)</strong>: Restitution de la voiture de location et vol retour vers Paris, france."
+      ],
+      "illustration": "jour4.jpg",
+      "encarts": [
+        {
+          "symbole": "🎁",
+          "titre": "Souvenirs",
+          "texte": "Le miel slovène, la fleur de sel de Piran ou des produits à base de citrouille sont d'excellents souvenirs à rapporter."
+        }
+      ]
+    }
+  ],
+  "detail_budget": [
+    { "titre": "Budget vol:", "legende": "A partir de 208 €/pers (A/R Paris-Ljubljana)", "symbole": "🛬" },
+    { "titre": "Budget transports:", "legende": "Environ 75 €/pers (location voiture + essence, base 2 pers)", "symbole": "🚗" },
+    { "titre": "Budget repas:", "legende": "Environ 140 €/pers (35€/jour pour 4 jours, restaurants moyens)", "symbole": "🥗" },
+    { "titre": "Budget logement:", "legende": "Environ 150 €/pers (3 nuits en hôtel 3*, base 2 pers)", "symbole": "🛏️" },
+    { "titre": "Budget activités:", "legende": "Environ 100 €/pers (château, pletna, gorges, thermes)", "symbole": "🎭" }
+  ],
+  "periodes_ideales": [
+    { "titre": "Mai à Septembre", "symbole": "☀️" },
+    { "titre": "Juin et Septembre (moins de foule)", "symbole": "🍃" }
+  ],
+  "infos_pratiques": [
+    { "titre": "La Slovénie utilise l'Euro (€). Les cartes de crédit sont largement acceptées, mais un peu de liquide est utile pour les petits commerces ou marchés.", "symbole": "💳" },
+    { "titre": "Le permis de conduire français est suffisant pour louer et conduire une voiture. La conduite est à droite et les panneaux sont clairs.", "symbole": "🚗" },
+    { "titre": "La Slovénie est un pays sûr. Les habitants sont accueillants et la plupart parlent anglais, surtout dans les zones touristiques.", "symbole": "🗣️" },
+    { "titre": "Prévoyez des chaussures confortables pour la marche et des vêtements adaptés aux variations de température, surtout si vous visitez les montagnes.", "symbole": "👟" }
+  ],
+  "liens_utiles": [
+    { "legende": "Vols", "titre": "Réserve ton vol Paris-Ljubljana", "url": "https://www.kayak.fr/flights/CDG-LJU/2026-05-10/2026-05-13", "symbole": "🛬" },
+    { "legende": "Infos officielles et inspirations", "titre": "Tourisme Slovénie", "url": "https://www.slovenia.info/fr", "symbole": "📘" },
+    { "legende": "Location de voiture", "titre": "Compare les offres de location", "url": "https://www.rentalcars.com/fr/", "symbole": "🚗" },
+    { "legende": "Météo", "titre": "Prévisions météo Slovénie", "url": "https://www.accuweather.com/fr/si/slovenia-weather", "symbole": "🌤️" }
+  ]
+}
